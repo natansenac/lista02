@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Lista-02-main\Lista-02-main\ex02\obj\Debug\net8.0\ref\ex02.dll
